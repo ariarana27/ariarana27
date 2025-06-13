@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aria 👋</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist;Lifelong+Learner+%F0%9F%93%9A">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist;+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
@@ -24,10 +24,6 @@
 
 ### 💼 Projects 
 
-- **🧿 Ocular Disease Predictor**  
-  Deep-learning project using CLAHE image enhancement to predict eye diseases from fundus images.  
-  *Tools: Python, TensorFlow, OpenCV, Scikit-learn*
-
 ---
 
 ### 📈 Current Goals
@@ -41,8 +37,5 @@
 
 ### 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/) 
+- 💼 [LinkedIn](www.linkedin.com/in/ariarana) 
 
----
-
-<p align="center">Thanks for stopping by! 🌟</p>
